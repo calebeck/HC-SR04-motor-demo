@@ -1,7 +1,7 @@
 # HC-SR04-motor-demo
 Experimenting with HC-SR04 Ultrasonic sensor, implementing a fallback to design to simulate a platform navigating obstacles and adjusting a motor's RPMs accordingly
 
-# HardWare Required
+# Hardware Required
 ESP32-S3 Development Board
 HC-SR04 Ultrasonic Sensor
 Various Types of Stepper Motor
